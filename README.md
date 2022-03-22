@@ -1,4 +1,4 @@
-# Employee Tracker - MySQL
+# Employee Tracker - MySQL + Node.js
 
 
 ## Description
