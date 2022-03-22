@@ -1,1 +1,1 @@
-INSERT INTO role
+INSERT INTO roles
